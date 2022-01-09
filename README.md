@@ -9,4 +9,4 @@
 ![gambar](ss/ss1.png)
 
 ### dan berikut adalah hasil pemogramannya
-![gambar](ss/ss2.pmg)
+![gambar](ss/ss2.png)
